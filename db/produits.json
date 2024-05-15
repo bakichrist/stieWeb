@@ -1,0 +1,131 @@
+{
+    "items": [
+        {
+            "title": "Chaussures de course",
+            "price": {
+                "value": 129.99,
+                "currency": "EUR"
+            },
+            "imageLink":"https://contents.mediadecathlon.com/p2606751/k$5211ddac45b25d0224e88eb6ddac9ff3/chaussure-jogging-homme-run-active-noir-jaune.jpg?&f=800x800",
+            "categories": ["Sport", "Chaussures", "Course"]
+        },
+        {
+            "title": "Sac à dos résistant à l'eau",
+            "price": {
+                "value": 49.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://contents.mediadecathlon.com/p2037165/k$4366515d6fc325a84e0bb5aedf59ea84/sac-a-dos-de-randonnee-nature-nh-urban-100-17-litres.jpg?&f=800x800",
+            "categories": ["Voyage", "Accessoires", "Sac à dos"]
+        },
+        {
+            "title": "Montre intelligente",
+            "price": {
+                "value": 199.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://m.media-amazon.com/images/I/51dD6TrWG2L._AC_UL320_.jpg",
+            "categories": ["Technologie", "Montres", "Smartwatch"]
+        },
+        {
+            "title": "Casque audio sans fil",
+            "price": {
+                "value": 79.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300",
+            "categories": ["Audio", "Accessoires", "Sans fil"]
+        },
+        {
+            "title": "Téléphone portable nouvelle génération",
+            "price": {
+                "value": 699.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300",
+            "categories": ["Technologie", "Téléphone", "Nouvelle génération"]
+        },
+        {
+            "title": "Ordinateur portable ultrafin",
+            "price": {
+                "value": 1299.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300",
+            "categories": ["Technologie", "Informatique", "Portable"]
+        },
+        {
+            "title": "Bouteille d'eau réutilisable",
+            "price": {
+                "value": 9.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Lunettes de soleil polarisées",
+            "price": {
+                "value": 39.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Montagne d'écouteurs intra-auriculaires",
+            "price": {
+                "value": 29.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Tapis de yoga en caoutchouc naturel",
+            "price": {
+                "value": 49.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Imprimante tout-en-un sans fil",
+            "price": {
+                "value": 149.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Enceinte Bluetooth portable",
+            "price": {
+                "value": 59.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Mallette de voyage à roulettes",
+            "price": {
+                "value": 89.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Appareil photo numérique compact",
+            "price": {
+                "value": 399.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        },
+        {
+            "title": "Ensemble de couteaux de cuisine en acier inoxydable",
+            "price": {
+                "value": 69.99,
+                "currency": "EUR"
+            },
+            "imageLink": "https://via.placeholder.com/300"
+        }
+
+    ]
+}

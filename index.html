@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <!-- Config -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Référencement -->
+    <meta
+      name="description"
+      content="Description courte et pertinente de votre site"
+    />
+    <meta name="keywords" content="mot-clé1, mot-clé2, mot-clé3" />
+    <link rel="canonical" href="www.crystalcommerce.ci" />
+    <!-- ShortIcons -->
+    <link
+      rel="shortcut icon"
+      href="assets/logo.svg"
+      type="image/x-icon"
+    />
+    <!-- StyleSheets -->
+    <link rel="stylesheet" href="styles/config.css" />
+    <link rel="stylesheet" href="styles/header-style.css" />
+    <link rel="stylesheet" href="styles/index-main-style.css">
+    <link rel="stylesheet" href="styles/footer-style.css" />
+    <!-- scripts -->
+    <script src="script/liste.js" defer></script>
+    <script src="script/api-produits.js" defer></script>
+    <!-- title -->
+    <title>Crystal Commerce</title>
+  </head>
+  <body>
+    <!-- debut du header -->
+    <header>
+      <div class="logo"><img src="assets/logo.svg" alt="image du logo en svg">
+      LOGO</div>
+      <div class="search-bar"> 
+        <input type="search" name="search-bar" id="search-bar" placeholder="Que recherchez-vous ?">
+        <button class="search-button"><img src="assets/search-alt-2-svgrepo-com.svg" alt=""></button>
+      </div>
+      <nav class="nav-bar">
+        <ul>
+          <li><a href="#"><img src="assets/calendar-days-svgrepo-com.svg" alt=""></a></li>
+          <li><a href="#"><img src="assets/account-svgrepo-com.svg" alt=""></a></li>
+          <li><a href="#"><img src="assets/cart-shopping-svgrepo-com.svg" alt=""></a></li>       
+         </ul>
+      </nav>
+      <div class="listes">
+        <ul class="listes ul-listes">
+          <!-- la liste est générée par un fichier js -->
+        </ul>
+      </div>
+    </header>
+    <main >
+      <aside></aside>
+      <div class="produits"></div>
+    </main>
+
+  </body>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "www.crystalcommerce.ci",
+      "name": "Crystal",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+2250171007643",
+        "contactType": "customer service"
+      }
+    }
+  </script>
+</html>
+
+
+

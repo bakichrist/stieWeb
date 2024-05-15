@@ -1,0 +1,29 @@
+:root{
+    --purple:#7B00FF;
+    --darkpurple:#3d0b71;
+    --pink:#FC32CF;
+    --lightpink:rgb(243, 223, 185);
+    --blue:#1AD0D6;
+    --darkblue:#0100DF;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-family: "Helvetica","Work Sans","Lucida Grande New","Duplet", sans-serif;
+}
+
+a:hover, button:hover{
+cursor: pointer;
+}
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
